@@ -3,5 +3,12 @@
   "owner": {
     "name": "Vibe Coding for EAs"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "downloads-folder-tidy-and-file-renamer-pxbc2",
+      "source": "./builds/agents/downloads-folder-tidy-and-file-renamer-pxbc2",
+      "description": "Cleans up a messy downloads folder by renaming loose files to a consistent YYYY.MM.DD - Description format and sorting them into Receipts, Artwork Proofs, or Documents. You get a tidy, searchable folder without touching a thing.",
+      "version": "1.0.0"
+    }
+  ]
 }
