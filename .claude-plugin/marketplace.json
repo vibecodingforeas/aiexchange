@@ -1,5 +1,14 @@
 {
   "name": "aiexchange",
-  "owner": { "name": "Vibe Coding for EAs" },
-  "plugins": []
+  "owner": {
+    "name": "Vibe Coding for EAs"
+  },
+  "plugins": [
+    {
+      "name": "daily-downloads-folder-organizer-5i42o",
+      "source": "./plugins/daily-downloads-folder-organizer-5i42o",
+      "description": "Daily 5pm scan of Downloads folder to rename and organize new files into subfolders.",
+      "version": "1.0.0"
+    }
+  ]
 }
