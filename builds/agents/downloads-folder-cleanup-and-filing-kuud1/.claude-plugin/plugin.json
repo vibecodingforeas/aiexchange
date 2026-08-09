@@ -1,0 +1,8 @@
+{
+  "name": "downloads-folder-cleanup-and-filing-kuud1",
+  "description": "Tidies up a messy downloads folder by renaming loose files to a clean date-first format and filing them into Receipts, Artwork Proofs, or Documents. You get back an organized folder and a note on what moved.",
+  "version": "1.0.0",
+  "author": {
+    "name": "beth"
+  }
+}
