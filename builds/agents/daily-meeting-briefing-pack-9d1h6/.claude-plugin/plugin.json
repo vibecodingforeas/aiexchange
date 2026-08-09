@@ -1,0 +1,8 @@
+{
+  "name": "daily-meeting-briefing-pack-9d1h6",
+  "description": "Every weekday morning it reviews today's calendar, skips internal and non-meeting blocks, and writes a one-page briefing for each meeting that involves outside attendees. Finished briefings land in a Drive folder, named by date and meeting title.",
+  "version": "1.0.0",
+  "author": {
+    "name": "beth"
+  }
+}
