@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "daily-downloads-folder-organizer-5i42o",
-      "source": "./plugins/daily-downloads-folder-organizer-5i42o",
+      "source": "./builds/agents/daily-downloads-folder-organizer-5i42o",
       "description": "Daily 5pm scan of Downloads folder to rename and organize new files into subfolders.",
       "version": "1.0.0"
     }
