@@ -1,8 +1,0 @@
-{
-  "name": "downloads-folder-cleanup-and-filing-1gskn",
-  "description": "Tidies up a messy downloads folder by giving every loose file a clear dated name and filing it into the right subfolder. You get back a clean folder with names like 2024.05.12 - Catering Invoice.pdf, sorted into Receipts, Artwork Proofs, and Documents.",
-  "version": "1.0.0",
-  "author": {
-    "name": "beth"
-  }
-}
