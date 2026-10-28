@@ -5,6 +5,12 @@
   },
   "plugins": [
     {
+      "name": "calendar-meeting-audit-ubahw",
+      "source": "./builds/skills/calendar-meeting-audit-ubahw",
+      "description": "Checks the next week of meetings and flags the ones missing people, missing attendees entirely, or missing an agenda. You get a short day-by-day list of only the problem meetings, plus an offer to fix them.",
+      "version": "1.0.0"
+    },
+    {
       "name": "daily-exec-briefing-um7sa",
       "source": "./builds/skills/daily-exec-briefing-um7sa",
       "description": "Turns your executive's Outlook day into a single one-page briefing you can read in 90 seconds, with a snapshot, agenda, external guest flags and decisions needed for every real meeting. You get a Claude Doc back, plus an optional unsent email draft.",

@@ -1,0 +1,8 @@
+{
+  "name": "calendar-meeting-audit-ubahw",
+  "description": "Checks the next week of meetings and flags the ones missing people, missing attendees entirely, or missing an agenda. You get a short day-by-day list of only the problem meetings, plus an offer to fix them.",
+  "version": "1.0.0",
+  "author": {
+    "name": "beth"
+  }
+}
