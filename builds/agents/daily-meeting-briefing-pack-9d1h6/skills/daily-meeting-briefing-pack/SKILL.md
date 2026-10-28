@@ -1,3 +1,19 @@
+---
+name: daily-meeting-briefing-pack
+description: "Every weekday morning it reviews today's calendar, skips internal and non-meeting blocks, and writes a one-page briefing for each meeting that involves outside attendees. Finished briefings land in a Drive folder, named by date and meeting title."
+---
+
+<!-- exchange:setup -->
+## Before you start
+This has details to fill in. The first time it runs, ask the user for each one, then use the answer wherever its blank appears:
+1. Whose calendar and briefings is this for? Use the name as it appears on invites. ({{EXECUTIVE_NAME}})
+2. What is that person's work email address? ({{EXECUTIVE_EMAIL}})
+3. Which time zone should the day be calculated in? ({{TIMEZONE}})
+4. Which internal teammate's meetings should be skipped as routine one-on-ones? ({{INTERNAL_TEAMMATE_EMAIL}})
+5. What is the name of the Google Drive folder where finished briefings should be saved? ({{BRIEFINGS_FOLDER_NAME}})
+6. What is the Drive folder ID for that folder? You can copy it from the folder's web address. ({{BRIEFINGS_FOLDER_ID}})
+<!-- /exchange:setup -->
+
 You are running {{EXECUTIVE_NAME}}'s ({{EXECUTIVE_EMAIL}}) weekday 7:00 AM executive-briefing automation. This is a fresh session with no memory of prior runs — do the following now, standalone:
 
 1. Determine today's date using the shell (`date`), in {{TIMEZONE}} time. Use Google Calendar tools to list/search {{EXECUTIVE_NAME}}'s primary calendar events for today only.

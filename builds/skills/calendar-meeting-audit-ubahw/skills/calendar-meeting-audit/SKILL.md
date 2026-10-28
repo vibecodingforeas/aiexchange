@@ -1,7 +1,14 @@
 ---
-name: "calendar-meeting-audit"
+name: calendar-meeting-audit
 description: "Scan upcoming calendar events and flag meetings missing implied attendees, meetings with no attendees, and meetings with no agenda. Use when asked to audit, check, or clean up a calendar."
 ---
+
+<!-- exchange:setup -->
+## Before you start
+This has details to fill in. The first time it runs, ask the user for each one, then use the answer wherever its blank appears:
+1. {{EXECUTIVE_NAME}}
+2. {{COMPANY_NAME}}
+<!-- /exchange:setup -->
 
 # Calendar Meeting Audit
 

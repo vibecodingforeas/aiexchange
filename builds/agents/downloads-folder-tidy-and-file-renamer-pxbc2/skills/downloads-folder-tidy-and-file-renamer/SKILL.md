@@ -1,3 +1,14 @@
+---
+name: downloads-folder-tidy-and-file-renamer
+description: "Cleans up a messy downloads folder by renaming loose files to a consistent YYYY.MM.DD - Description format and sorting them into Receipts, Artwork Proofs, or Documents. You get a tidy, searchable folder without touching a thing."
+---
+
+<!-- exchange:setup -->
+## Before you start
+This has details to fill in. The first time it runs, ask the user for each one, then use the answer wherever its blank appears:
+1. Which folder on your computer should be tidied up each run? Give the full path. ({{DOWNLOADS_FOLDER_PATH}})
+<!-- /exchange:setup -->
+
 Scan the folder at {{DOWNLOADS_FOLDER_PATH}} for any files that are not already inside a subfolder (Receipts, Artwork Proofs, Documents) and have not yet been renamed to the YYYY.MM.DD - Description format.
 
 

@@ -39,12 +39,6 @@
       "source": "./builds/skills/event-venue-sourcing-vrrif",
       "description": "Turns a rough event request into a shortlist of five hotels with the reasons each made the cut, then drafts and previews the hotel RFP so you can approve it before anything is sent. Nothing goes out to a hotel without your explicit yes.",
       "version": "1.0.0"
-    },
-    {
-      "name": "travel-confirmations-to-calendar-bp7k4",
-      "source": "./builds/automations/travel-confirmations-to-calendar-bp7k4",
-      "description": "A scheduled weekday agent that finds new booking confirmations in Gmail and turns every one into a complete calendar event: flights leg by leg with check-in reminders, hotels marked Free so they never block the calendar, rental cars, and restaurant reservations. Each confirmation document is filed into a tidy Drive trip folder and attached to its event, and every run ends with a written report of what was created, skipped, or needs your eyes.",
-      "version": "1.0.0"
     }
   ]
 }

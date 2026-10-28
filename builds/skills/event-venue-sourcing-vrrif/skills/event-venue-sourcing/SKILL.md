@@ -1,7 +1,13 @@
 ---
-name: "event-venue-sourcing"
+name: event-venue-sourcing
 description: "Use when {{EXECUTIVE_NAME}} asks to source a venue, find hotels for an offsite or event, or send a hotel RFP: gather missing details, shortlist 5 hotels via Workgrounds, recap the RFP, send only on an explicit yes."
 ---
+
+<!-- exchange:setup -->
+## Before you start
+This has details to fill in. The first time it runs, ask the user for each one, then use the answer wherever its blank appears:
+1. {{EXECUTIVE_NAME}}
+<!-- /exchange:setup -->
 
 # Event Venue Sourcing
 

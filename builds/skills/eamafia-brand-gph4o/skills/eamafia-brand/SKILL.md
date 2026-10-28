@@ -1,7 +1,19 @@
 ---
-name: "{{BRAND_NAME}}-brand"
+name: eamafia-brand
 description: "Apply {{BRAND_NAME}} brand identity — navy and gold palette, Juana serif + Raleway type, gold script eA logo, warm EA-to-EA voice — to decks, docs, sheets, web pages, and mockups. Use for anything {{BRAND_NAME}}, {{SUB_BRAND_NAME}}, or {{EVENT_NAME}} branded."
 ---
+
+<!-- exchange:setup -->
+## Before you start
+This has details to fill in. The first time it runs, ask the user for each one, then use the answer wherever its blank appears:
+1. {{BRAND_NAME}}
+2. {{SUB_BRAND_NAME}}
+3. {{EVENT_NAME}}
+4. {{BRAND_WEBSITE}}
+5. {{LOGO_FILE_NAME}}
+6. {{ORG_FACTS}}
+7. {{FOUNDER_NAME}}
+<!-- /exchange:setup -->
 
 # {{BRAND_NAME}} Brand
 

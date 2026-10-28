@@ -1,7 +1,18 @@
 ---
-name: "daily-exec-briefing"
+name: daily-exec-briefing
 description: "Build {{EXECUTIVE_NAME}}'s one-doc daily meeting briefing from the {{MAILBOX_EMAIL}} Microsoft 365 calendar. Use when {{ASSISTANT_NAME}} asks for the daily exec briefing or runs /daily-exec-briefing."
 ---
+
+<!-- exchange:setup -->
+## Before you start
+This has details to fill in. The first time it runs, ask the user for each one, then use the answer wherever its blank appears:
+1. {{EXECUTIVE_NAME}}
+2. {{MAILBOX_EMAIL}}
+3. {{ASSISTANT_NAME}}
+4. {{TIME_ZONE}}
+5. {{TIME_ZONE_LABEL}}
+6. {{INTERNAL_TEAM_DESCRIPTION}}
+<!-- /exchange:setup -->
 
 # Daily Exec Briefing
 
