@@ -29,6 +29,12 @@
       "version": "1.0.0"
     },
     {
+      "name": "eamafia-brand-gph4o",
+      "source": "./builds/skills/eamafia-brand-gph4o",
+      "description": "Gives Claude the full eaMAFIA brand identity, including exact colors, fonts, logo, components, and voice, so anything you make comes out on brand. You get decks, documents, spreadsheets, social graphics, and web mockups that match eamafia.com without you having to look up a single hex code.",
+      "version": "1.0.0"
+    },
+    {
       "name": "event-venue-sourcing-vrrif",
       "source": "./builds/skills/event-venue-sourcing-vrrif",
       "description": "Turns a rough event request into a shortlist of five hotels with the reasons each made the cut, then drafts and previews the hotel RFP so you can approve it before anything is sent. Nothing goes out to a hotel without your explicit yes.",
