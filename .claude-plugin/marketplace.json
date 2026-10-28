@@ -5,6 +5,12 @@
   },
   "plugins": [
     {
+      "name": "daily-exec-briefing-um7sa",
+      "source": "./builds/skills/daily-exec-briefing-um7sa",
+      "description": "Turns your executive's Outlook day into a single one-page briefing you can read in 90 seconds, with a snapshot, agenda, external guest flags and decisions needed for every real meeting. You get a Claude Doc back, plus an optional unsent email draft.",
+      "version": "1.0.0"
+    },
+    {
       "name": "daily-meeting-briefing-pack-9d1h6",
       "source": "./builds/agents/daily-meeting-briefing-pack-9d1h6",
       "description": "Every weekday morning it reviews today's calendar, skips internal and non-meeting blocks, and writes a one-page briefing for each meeting that involves outside attendees. Finished briefings land in a Drive folder, named by date and meeting title.",
@@ -14,6 +20,12 @@
       "name": "downloads-folder-tidy-and-file-renamer-pxbc2",
       "source": "./builds/agents/downloads-folder-tidy-and-file-renamer-pxbc2",
       "description": "Cleans up a messy downloads folder by renaming loose files to a consistent YYYY.MM.DD - Description format and sorting them into Receipts, Artwork Proofs, or Documents. You get a tidy, searchable folder without touching a thing.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "travel-confirmations-to-calendar-bp7k4",
+      "source": "./builds/automations/travel-confirmations-to-calendar-bp7k4",
+      "description": "A scheduled weekday agent that finds new booking confirmations in Gmail and turns every one into a complete calendar event: flights leg by leg with check-in reminders, hotels marked Free so they never block the calendar, rental cars, and restaurant reservations. Each confirmation document is filed into a tidy Drive trip folder and attached to its event, and every run ends with a written report of what was created, skipped, or needs your eyes.",
       "version": "1.0.0"
     }
   ]
