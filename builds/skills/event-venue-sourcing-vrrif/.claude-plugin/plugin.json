@@ -1,0 +1,8 @@
+{
+  "name": "event-venue-sourcing-vrrif",
+  "description": "Turns a rough event request into a shortlist of five hotels with the reasons each made the cut, then drafts and previews the hotel RFP so you can approve it before anything is sent. Nothing goes out to a hotel without your explicit yes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "beth"
+  }
+}
